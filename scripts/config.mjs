@@ -1,6 +1,6 @@
 export default function getConfig() {
   return {
-    url: 'http://fresh-timberstrap.local',
+    url: 'http://timberstrap.local',
     endpoint: '/wp-json/timberstrap/v1/fetch_content',
     post_types: [
         'page',
